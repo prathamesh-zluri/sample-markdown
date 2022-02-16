@@ -13,3 +13,5 @@
 [click here to get github](http://www.github.com)
 
 this line is most `important` in paragraph
+
+![alt text](http://picsum.photos/200/200)
