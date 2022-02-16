@@ -1,8 +1,9 @@
 # sample-markdown
 #headline
+
 ##just a sample text to test
 
-** information **
+**information**
 
 -  first name
-   - * prathamesh * 
+   - *prathamesh* 
