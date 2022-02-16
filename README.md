@@ -20,3 +20,4 @@ some paragraph
 > text below paragraph
 
 | Jan | Feb | Mar |
+| --- | ---| --- |
